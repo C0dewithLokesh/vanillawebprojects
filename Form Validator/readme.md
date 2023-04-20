@@ -1,5 +1,5 @@
 <div align="center">
- <h2 align="center">TinDog-Website</h2>
+ <h2 align="center">Form Validator</h2>
  
 Simple client side form validation. Check required, length, email and password match, build using HTML, CSS, JavaScript.
  
