@@ -10,3 +10,4 @@ This is the main repository for all of the projects in the course.
 | 04  |       [Exchange Rate Calculator](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Exchange%20Rate%20Calculator)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Exchange%20Rate%20Calculator)  |
 | 05  |       [DOM Array Methods Project](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/DOM%20Array%20Methods)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/DOM%20Array%20Methods)  |
 | 06  |       [Menu Slider & Modal](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Menu%20Slider%20%26%20Modal)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Menu%20Slider%20%26%20Modal)  |
+| 07  |       [Hangman Game](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Hangman%20Game)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Hangman%20Game)  |
