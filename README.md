@@ -11,3 +11,5 @@ This is the main repository for all of the projects in the course.
 | 05  |       [DOM Array Methods Project](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/DOM%20Array%20Methods)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/DOM%20Array%20Methods)  |
 | 06  |       [Menu Slider & Modal](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Menu%20Slider%20%26%20Modal)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Menu%20Slider%20%26%20Modal)  |
 | 07  |       [Hangman Game](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Hangman%20Game)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Hangman%20Game)  |
+| 08  |       [Mealfinder App](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Hangman%20Game)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Hangman%20Game)  |
+| 09  |       [Expense Tracker](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Expense%20Tracker)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Expense%20Tracker)  |
