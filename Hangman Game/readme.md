@@ -3,7 +3,7 @@
  
 Select a letter to figure out a hidden word in a set amount of chances
  
-<a href="https://c0dewithlokesh.github.io/vanillawebprojects/Form%20Validator/"><strong>➥ Live Demo</strong></a>
+<a href="https://c0dewithlokesh.github.io/vanillawebprojects/Hangman%20Game/"><strong>➥ Live Demo</strong></a>
 </div>
 
 ## Demo ScreenShot
