@@ -13,3 +13,4 @@ This is the main repository for all of the projects in the course.
 | 07  |       [Hangman Game](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Hangman%20Game)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Hangman%20Game)  |
 | 08  |       [Mealfinder App](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Hangman%20Game)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Hangman%20Game)  |
 | 09  |       [Expense Tracker](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Expense%20Tracker)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Expense%20Tracker)  |
+| 10  |       [Music Player](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Music%20Player)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Music%20Player)  |
