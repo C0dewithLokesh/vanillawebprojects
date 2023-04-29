@@ -1,21 +1,19 @@
 <div align="center">
- <h2 align="center">Expense Tracker</h2>
+ <h2 align="center">Music Player</h2>
  
-Keep track of income and expenses. Add and remove items and save to local storage
+Create beautiful UI to play music stored in the "music folder" using the HTML5 audio API
  
-<a href="https://c0dewithlokesh.github.io/vanillawebprojects/Expense%20Tracker/"><strong>➥ Live Demo</strong></a>
+<a href="https://c0dewithlokesh.github.io/vanillawebprojects/Music%20Player/"><strong>➥ Live Demo</strong></a>
 </div>
 
 ## Demo ScreenShot
 
-![image](https://user-images.githubusercontent.com/77185999/235211431-93efa358-56a9-42ca-99a4-543d9f8f5307.png)
+![image](https://user-images.githubusercontent.com/77185999/235303564-25396b4c-a405-4e4b-a473-3811a5e61c83.png)
 
 
 ## Project Specifications
 
-- Create UI for project
-- Display transaction items in DOM
-- Show balance, expense and income totals
-- Add new transation and reflect in total
-- Delete items from DOM
-- Persist to local storage
+- Create UI for music player including spinning image and song detail popup
+- Add play and pause functionality
+- Switch songs
+- Progress bar
