@@ -1,0 +1,18 @@
+<div align="center">
+ <h2 align="center">Infinite Scrolling & Filter</h2>
+ 
+Display blog posts from [jsonplaceholder](https://jsonplaceholder.typicode.com) and add infinite scroll to fetch posts and also add filter box
+ 
+<a href="https://c0dewithlokesh.github.io/vanillawebprojects/Infinite%20Scroll/"><strong>➥ Live Demo</strong></a>
+</div>
+
+## Demo ScreenShot
+
+![image](https://user-images.githubusercontent.com/77185999/235357484-adb459e4-a418-47b2-b127-9aa0487e52b6.png)
+
+## Project Specifications
+
+- Create UI & custom CSS loader animation
+- Fetch initial posts from API and display
+- Scroll down, show loader and fetch next set of posts
+- Add filtering for fetched posts
