@@ -11,7 +11,7 @@ This is the main repository for all of the projects in the course.
 | 05  |       [DOM Array Methods Project](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/DOM%20Array%20Methods)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/DOM%20Array%20Methods)  |
 | 06  |       [Menu Slider & Modal](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Menu%20Slider%20%26%20Modal)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Menu%20Slider%20%26%20Modal)  |
 | 07  |       [Hangman Game](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Hangman%20Game)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Hangman%20Game)  |
-| 08  |       [Mealfinder App](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Hangman%20Game)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Hangman%20Game)  |
+| 08  |       [Mealfinder App](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Meal%20Finder)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Meal%20Finder)  |
 | 09  |       [Expense Tracker](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Expense%20Tracker)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Expense%20Tracker)  |
 | 10  |       [Music Player](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Music%20Player)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Music%20Player)  |
 | 11  |       [Infinite Scrolling](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Infinite%20Scroll)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Infinite%20Scroll)  |
