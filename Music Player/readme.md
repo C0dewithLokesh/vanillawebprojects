@@ -3,7 +3,7 @@
  
 Create beautiful UI to play music stored in the "music folder" using the HTML5 audio API
  
-<a href="https://c0dewithlokesh.github.io/vanillawebprojects/Music%20Player/"><strong>➥ Live Demo</strong></a>
+<a href="https://c0dewithlokesh.github.io/vanillawebprojects/Music%20Player/"> <strong>➥ Live Demo</strong></a>
 </div>
 
 ## Demo ScreenShot
