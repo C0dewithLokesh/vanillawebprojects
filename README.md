@@ -15,3 +15,4 @@ This is the main repository for all of the projects in the course.
 | 09  |       [Expense Tracker](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Expense%20Tracker)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Expense%20Tracker)  |
 | 10  |       [Music Player](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Music%20Player)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Music%20Player)  |
 | 11  |       [Infinite Scrolling](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/Infinite%20Scroll)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/Infinite%20Scroll)  |
+| 11  |       [Typing Game](https://github.com/C0dewithLokesh/vanillawebprojects/tree/main/typing-game)       | [➥Live Demo](https://c0dewithlokesh.github.io/vanillawebprojects/typing-game)  |
